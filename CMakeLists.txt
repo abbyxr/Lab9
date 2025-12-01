@@ -6,3 +6,5 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(Lab9 main.cpp
         conversion.h
         conversion.cpp)
+        arithmetic.cpp
+        arithmetic.h)
